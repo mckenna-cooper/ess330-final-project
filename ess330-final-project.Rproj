@@ -1,5 +1,4 @@
 Version: 1.0
-ProjectId: f989187a-7cd5-4a5f-8944-f576d60fe8a1
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
@@ -10,5 +9,5 @@ UseSpacesForTab: Yes
 NumSpacesForTab: 2
 Encoding: UTF-8
 
-RnwWeave: Sweave
+RnwWeave: Knitr
 LaTeX: pdfLaTeX
